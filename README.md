@@ -1,5 +1,7 @@
 # neoG-food-recomendations
 
+# React
+
 
 This is a Food recommendations application, this has several cuisines to show along with resturant name and rating.All the resturants are from hyderabad
 
